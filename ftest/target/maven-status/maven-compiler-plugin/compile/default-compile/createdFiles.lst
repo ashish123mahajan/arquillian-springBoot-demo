@@ -1,0 +1,4 @@
+org/shrinkwrap/springboot/app/Application.class
+org/shrinkwrap/springboot/app/HelloController.class
+org/shrinkwrap/springboot/impl/SpringBoot13ArchiveImpl.class
+org/shrinkwrap/springboot/api/SpringBoot13Archive.class
